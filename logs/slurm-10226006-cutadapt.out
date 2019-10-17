@@ -1,0 +1,78 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+# All requested packages already installed.
+
+This is cutadapt 1.18 with Python 3.7.3
+Command line parameters: -a ^AGATCGGAAGAGCACACGTCTGAACTCCAGTCA...AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o RAL306W-F3_S79_L006_R1_001.fastq.gz /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W-F3_S79_L006_R1_001.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 32.01 s (28 us/read; 2.16 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               1,153,925
+Reads with adapters:                   385,738 (33.4%)
+Reads written (passing filters):     1,153,925 (100.0%)
+
+Total basepairs processed:   174,242,675 bp
+Total written (filtered):    161,869,070 bp (92.9%)
+
+=== Adapter 2 ===
+
+Sequence: AGATCGGAAGAGCACACGTCTGAACTCCAGTCA...AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT; Type: linked; Length: 33+33; 5' trimmed: 385738 times; 3' trimmed: 18248 times
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-33 bp: 3
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-33 bp: 3
+
+Overview of removed sequences at 5' end
+length	count	expect	max.err	error counts
+30	980	0.0	3	0 0 0 980
+31	29245	0.0	3	0 0 28536 709
+32	354357	0.0	3	0 345841 8312 204
+33	1141	0.0	3	109 23 988 21
+34	15	0.0	3	0 3 0 12
+
+
+Overview of removed sequences at 3' end
+length	count	expect	max.err	error counts
+3	16315	18030.1	0	16315
+4	1059	4507.5	0	1059
+5	338	1126.9	0	338
+6	92	281.7	0	92
+7	58	70.4	0	58
+8	33	17.6	0	33
+9	65	4.4	0	53 12
+10	87	1.1	1	37 50
+11	73	0.3	1	29 44
+12	48	0.1	1	27 21
+13	47	0.0	1	29 18
+14	30	0.0	1	0 30
+15	2	0.0	1	0 2
+35	1	0.0	3	0 0 1
+
+	Command being timed: "cutadapt -a ^AGATCGGAAGAGCACACGTCTGAACTCCAGTCA...AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o RAL306W-F3_S79_L006_R1_001.fastq.gz /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W-F3_S79_L006_R1_001.fastq.gz"
+	User time (seconds): 31.33
+	System time (seconds): 0.52
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:32.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15828
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9806
+	Voluntary context switches: 88491
+	Involuntary context switches: 74
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

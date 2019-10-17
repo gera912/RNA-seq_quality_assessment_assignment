@@ -1,0 +1,52 @@
+forward: 0
+reverse: 758684
+unmapped: 19747
+	Command being timed: "python parse_sam_strand.py -f aligned_RAL306W-F3_S79_L006_rRNA____Aligned.out.sam"
+	User time (seconds): 2.97
+	System time (seconds): 0.18
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2905
+	Voluntary context switches: 113
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+forward: 0
+reverse: 29169000
+unmapped: 52
+	Command being timed: "python parse_sam_strand.py -f aligned_RAL306W_plus_M3_S78_L006_rRNA____Aligned.out.sam"
+	User time (seconds): 112.22
+	System time (seconds): 6.23
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:00.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4137
+	Voluntary context switches: 1874
+	Involuntary context switches: 44
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

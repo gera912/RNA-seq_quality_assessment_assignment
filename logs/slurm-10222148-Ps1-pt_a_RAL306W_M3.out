@@ -1,0 +1,8 @@
+
+Currently Loaded Modules:
+  1) slurm/18.08   2) intel/17   3) fastqc/0.11.5
+
+ 
+
+Started analysis of stdin
+slurmstepd: error: *** JOB 10222148 ON n225 CANCELLED AT 2019-10-12T14:29:17 ***

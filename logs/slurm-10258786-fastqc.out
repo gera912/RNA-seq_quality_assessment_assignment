@@ -1,0 +1,182 @@
+
+Currently Loaded Modules:
+  1) slurm/18.08   2) intel/17   3) fastqc/0.11.5
+
+ 
+
+Started analysis of RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 5% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 10% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 15% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 20% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 25% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 30% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 35% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 40% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 45% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 50% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 55% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 60% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 65% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 70% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 75% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 80% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 85% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 90% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Approx 95% complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+Analysis complete for RAL306W-F3_S79_L006_R1_001.fastq.gz
+	Command being timed: "fastqc /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W-F3_S79_L006_R1_001.fastq.gz --outdir=/home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/fastqc"
+	User time (seconds): 14.47
+	System time (seconds): 0.50
+	Percent of CPU this job got: 105%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 217364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21241
+	Voluntary context switches: 2021
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Started analysis of RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 5% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 10% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 15% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 20% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 25% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 30% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 35% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 40% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 45% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 50% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 55% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 60% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 65% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 70% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 75% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 80% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 85% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 90% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Approx 95% complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+Analysis complete for RAL306W-F3_S79_L006_R2_001.fastq.gz
+	Command being timed: "fastqc /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W-F3_S79_L006_R2_001.fastq.gz --outdir=/home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/fastqc"
+	User time (seconds): 13.85
+	System time (seconds): 0.42
+	Percent of CPU this job got: 108%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 215768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 21620
+	Voluntary context switches: 2070
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1520
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Started analysis of RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 5% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 10% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 15% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 20% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 25% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 30% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 35% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 40% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 45% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 50% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 55% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 60% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 65% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 70% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 75% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 80% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 85% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 90% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Approx 95% complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+Analysis complete for RAL306W_plus_M3_S78_L006_R1_001.fastq.gz
+	Command being timed: "fastqc /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W_plus_M3_S78_L006_R1_001.fastq.gz --outdir=/home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/fastqc"
+	User time (seconds): 252.41
+	System time (seconds): 9.00
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:21.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 240912
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 32424
+	Voluntary context switches: 14268
+	Involuntary context switches: 114
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1704
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Started analysis of RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 5% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 10% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 15% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 20% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 25% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 30% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 35% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 40% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 45% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 50% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 55% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 60% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 65% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 70% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 75% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 80% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 85% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 90% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Approx 95% complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+Analysis complete for RAL306W_plus_M3_S78_L006_R2_001.fastq.gz
+	Command being timed: "fastqc /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W_plus_M3_S78_L006_R2_001.fastq.gz --outdir=/home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/fastqc"
+	User time (seconds): 266.83
+	System time (seconds): 10.53
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:37.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 240836
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 32798
+	Voluntary context switches: 14582
+	Involuntary context switches: 134
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1704
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

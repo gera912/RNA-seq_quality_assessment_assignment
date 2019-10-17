@@ -1,0 +1,35 @@
+Oct 14 11:28:15 ..... started STAR run
+Oct 14 11:28:15 ..... loading genome
+Oct 14 11:28:15 ..... started mapping
+
+EXITING because of FATAL ERROR in reads input: short read sequence line: 0
+Read Name=@K00337:306:HC3HKBBXY:6:1101:10581:1297
+Read Sequence====
+DEF_readNameLengthMax=50000
+DEF_readSeqLengthMax=650
+
+Oct 14 11:28:16 ...... FATAL ERROR, exiting
+Command exited with non-zero status 104
+	Command being timed: "STAR --runThreadN 7 --runMode alignReads --outFilterMultimapNmax 3 --outSAMunmapped Within KeepPairs --readFilesCommand zcat --readFilesIn /home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/RAL306W-F3_S79_L006_R1_001.fastq.gz /home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/RAL306W-F3_S79_L006_R2_001.fastq.gz --genomeDir /home/gperez8/bgmp/projects/bgmp/gperez8/Bi624/Drosophila_melanogaster.BDGP6.22.ncrna.STAR_2.7.1a_2nd --outFileNamePrefix aligned_RAL306W-F3_S79_L006_v2 --genomeSAindexNbases 4"
+	User time (seconds): 0.18
+	System time (seconds): 0.65
+	Percent of CPU this job got: 82%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2145928
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 68965
+	Voluntary context switches: 1261
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 104

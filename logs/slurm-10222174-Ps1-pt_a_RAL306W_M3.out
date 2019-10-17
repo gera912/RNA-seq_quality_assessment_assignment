@@ -1,0 +1,31 @@
+
+Currently Loaded Modules:
+  1) slurm/18.08   2) intel/17   3) fastqc/0.11.5
+
+ 
+
+Started analysis of stdin
+	Command being timed: "zcat /projects/bgmp/shared/2019_Drosphila_RNAseq/RAL306W_plus_M3_S78_L006_R1_001.fastq.gz"
+	User time (seconds): 72.46
+	System time (seconds): 3.94
+	Percent of CPU this job got: 33%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:48.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 874
+	Voluntary context switches: 1024783
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Analysis complete for stdin
